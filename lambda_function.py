@@ -29,7 +29,7 @@ HEADERS = {
 # #405354 dated Jul 10 2026. This ceiling has a few weeks of
 # headroom built in as of Sep 2026.
 MIN_ID = 1
-MAX_ID = 407500
+MAX_ID = 407600
 FALLBACK_ID = 66596  # "The American Chestnut" -- known-good
 MAX_ATTEMPTS = 5
 
